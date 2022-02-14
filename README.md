@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+// import type { NextApiRequest, NextApiResponse } from 'next'
+
+// export default function handler(
+//   req: NextApiRequest,
+//   res: NextApiResponse<Data>
+// ) {
+//   res.status(200).json({ name: 'John Doe' })
+// }
+
+
+
 ## Getting Started
 
 First, run the development server:
